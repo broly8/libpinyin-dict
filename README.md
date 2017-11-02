@@ -1,6 +1,6 @@
 # 安装
-1. 下载dict.txt文件  
-2. libpinyin导入
+**1. 下载dict.txt文件**  
+**2. libpinyin导入**
 
 词库大概有32万词左右，主要包括以下部分，基本能满足大部分人日常需求。：
 
@@ -18,6 +18,3 @@
 # 感谢
 [深蓝词库转换工具](https://github.com/studyzy/imewlconverter)  
 各大国产拼音输入法词库
-
-# Link
-[http://dreamlikes.cn/archives/952](http://dreamlikes.cn/archives/952) 

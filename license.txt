@@ -1,0 +1,4 @@
+The contents and tools in this repository are licensed under the MPL 2.0 license.
+
+Full text of ths MPL license can be obtained at:
+https://www.mozilla.org/en-US/MPL/2.0/
